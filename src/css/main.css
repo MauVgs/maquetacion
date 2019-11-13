@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    
+}
+
+.ancla{
+    text-decoration: none;
+    color: white;
+}
+.navegacion{
+    height: 60px;
+    background: #4CAF50;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+}
+.logo{
+    width: 123px;
+    height: auto;
+    margin-left: 32px;
+}
+.telInfo{
+    margin-right: 40.5px;
+    font-family: montserrat,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.infoContact{
+    display: flex;
+    color: #fff;
+    align-items: center;
+    
+    margin-right: 40.5px;
+}
+.btnContact{
+    width: 200px;
+    height: 40px;
+    border: 2px solid #fff;
+    text-align: center;
+    color: #fff;
+    font-family: montserrat,sans-serif;
+    font-weight: 400;
+    font-style: bold;
+}
+
+.contenido{
+    display: flex;
+}
+
+.sidebar{
+    min-width: 257px;
+    box-shadow: 0 2px 7px 0 rgba(0,0,0,0.26);
+    height: 100vh;
+    background: #fff;
+}
+
+.optionli{
+    width: 100%;
+    height: 74px;
+    padding: 27px 17px;
+}
+.llenado{
+    width: 100%;
+    background: #EAEAEA;
+}
+.title{
+    width: 100%;
+    height: 116px;
+    background: #fff;
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: bold;
+}
+.titulo{    
+}
